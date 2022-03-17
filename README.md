@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @redshaaro
-- 👀 I’m interested in artficial intelligence and offensive web security 
+- 👀 I’m interested in web development, artficial intelligence and offensive web security 
 - 🌱 I’m currently learning reiforcment learning
 - 
 - 📫 How to reach me ..... 01146004472
