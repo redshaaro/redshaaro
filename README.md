@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm zeyad</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate full stack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redshaaro&label=Profile%20views&color=0e75b6&style=flat" alt="redshaaro" /> </p>
 
-- 🔭 I’m currently working on **Blog Application**
+- 🔭 I’m currently working on **Tiktok clone**
 
-- 🌱 I’m currently learning **express, web sockets , redux**
+- 🌱 I’m currently learning **nextjs and typescript**
 
-- 👨‍💻 My top front-end project [https://netflix-tailwind-clone.vercel.app/](https://netflix-tailwind-clone.vercel.app/)
 
-- 💬 Ask me about **react**
+
+- 💬 Ask me about **react,express,nosql**
 
 - 📫 How to reach me **shaarawyziad121@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ziad-shaarawy-629a5721b/details/education/1635500515732/single-media-viewer/](https://www.linkedin.com/in/ziad-shaarawy-629a5721b/details/education/1635500515732/single-media-viewer/)
 
-- ⚡ Fun fact **CSS is a loop of hell 👀**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
