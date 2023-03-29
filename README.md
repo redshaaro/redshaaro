@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shaarawyziad121@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ziad-shaarawy-629a5721b/details/education/1635500515732/single-media-viewer/](https://www.linkedin.com/in/ziad-shaarawy-629a5721b/details/education/1635500515732/single-media-viewer/)
+- 📄 Know about my experiences https://www.linkedin.com/in/ziad-shaarawy-629a5721b/   
 
  
 
